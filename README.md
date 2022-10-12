@@ -38,9 +38,9 @@ Luego en nuestro navegador ingresamos a cualquiera de las siguientes rutas que c
 - `http://localhost:3000/mascotas`
 - `http://localhost:3000/usuarios`
 
-Y finalmente veremos la Api en funcionamiento!.
-
 Se creó un archivo `consumir.json` para tener datos de prueba en nuestra base de datos, serán los datos que veremos en nuestras rutas.
+
+Y finalmente veremos la Api en funcionamiento!.
 
 ## Enunciado
 
@@ -84,7 +84,7 @@ obligatorias):
   - numeroSeguridadSocial *
   - mascotasAdoptadas *
 
-La relación entre ambas entidades es de uno a muchos ya que un Usuario puede adoptar varias Mascotas y, a su vez, una Mascota solo puede ser adopta por un Usuario.
+La relación entre ambas entidades es de uno a muchos ya que un Usuario puede adoptar varias Mascotas y, a su vez, una Mascota solo puede ser adoptada por un Usuario.
 ## Backend
 
 Se desarrolló un servidor en Node/Express con las siguientes rutas:
