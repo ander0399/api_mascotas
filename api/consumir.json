@@ -1,0 +1,178 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nombre": "Anderson",
+            "apellido": "Escorcia",
+            "email": "anderson@emailprueba.com",
+            "cedula": "0000000001",
+            "telefono": "314456245",
+            "edad": "20",
+            "direccion": "calle 15 #21-20",
+            "trabajoActual": "Desarrollador Web Full Stack",
+            "numeroSeguridadSocial": "4562131456421",
+            "mascotasAdoptadas": 2
+        },
+        {
+            "id": 2,
+            "nombre": "Hal",
+            "apellido": "Jordan",
+            "email": "hal@emailprueba.com",
+            "cedula": "0000000002",
+            "telefono": "312456789",
+            "edad": "35",
+            "direccion": "Praza Ariadna, 49, 5º 3º",
+            "trabajoActual": "Domiciliario",
+            "numeroSeguridadSocial": "15465484513",
+            "mascotasAdoptadas": 1
+        },
+        {
+            "id": 3,
+            "nombre": "Diana",
+            "apellido": "Prince",
+            "email": "Diana@emailprueba.com",
+            "cedula": "0000000003",
+            "telefono": "321456987",
+            "edad": "24",
+            "direccion": "Carrer Javier, 62, 1º A",
+            "trabajoActual": "director financiero de una empresa de seguros",
+            "numeroSeguridadSocial": "156845132",
+            "mascotasAdoptadas": 2
+        },
+        {
+            "id": 4,
+            "nombre": "Guy",
+            "apellido": "Gardnen",
+            "email": "guy@emailprueba.com",
+            "cedula": "0000000004",
+            "telefono": "(723) 808-0574 x811",
+            "edad": "26",
+            "direccion": "70723 Ricky Crest Apt. 235",
+            "trabajoActual": "Dentista",
+            "numeroSeguridadSocial": "448213124984",
+            "mascotasAdoptadas": 2
+        },
+        {
+            "id": 5,
+            "nombre": "Barry",
+            "apellido": "Allen",
+            "email": "barry@emailprueba.com",
+            "cedula": "0000000001",
+            "telefono": "453.866.8876",
+            "edad": "22",
+            "direccion": "85273 Torrey Glen Suite 061",
+            "trabajoActual": "Diseñador gráfico",
+            "numeroSeguridadSocial": "84512315",
+            "mascotasAdoptadas": 1
+        },
+        {
+            "id": 6,
+            "nombre": "Oliver",
+            "apellido": "Queen",
+            "email": "oliver@emailprueba.com",
+            "cedula": "0000000006",
+            "telefono": "325.382.0769",
+            "edad": "37",
+            "direccion": "calle 15 #21-20",
+            "trabajoActual": "Psicólogo",
+            "numeroSeguridadSocial": "40964156255",
+            "mascotasAdoptadas": 1
+        },
+        {
+            "id": 7,
+            "nombre": "Dinah",
+            "apellido": "Lance",
+            "email": "dinah@emailprueba.com",
+            "cedula": "0000000007",
+            "telefono": "(203) 932-8403",
+            "edad": "32",
+            "direccion": "2595 Wisoky Key Apt. 515",
+            "trabajoActual": "Doctora",
+            "numeroSeguridadSocial": "74226907467",
+            "mascotasAdoptadas": 1
+        }
+    ],
+    "mascotas": [
+        {
+            "id": 1,
+            "nombre": "Coco Mex",
+            "foto": "https://www.adoptanocompres.org/wp-content/uploads/2022/09/CocoM-Fundacion-Adopta-No-Compres-600x800.jpeg",
+            "edad": "3 años",
+            "talla": "grande",
+            "adoptada": false,
+            "detalles": "Se encuentra dispuesto a encontrar un hogar amoroso y responsable que quiera darle una segunda oportunidad."
+        },
+        {
+            "id": 2,
+            "nombre": "Coyote",
+            "foto": "https://www.adoptanocompres.org/wp-content/uploads/2022/08/Coyote-2-400x533.jpg",
+            "edad": "1 año",
+            "talla": "grande",
+            "adoptada": true,
+            "detalles": "Me encanta pasear, jugar, correr, socializar con otros perros y hacer deporte."
+        },
+        {
+            "id": 3,
+            "nombre": "Tambo",
+            "foto": "https://www.adoptanocompres.org/wp-content/uploads/2022/07/Tambo-65-600x800.jpeg",
+            "edad": "9 meses",
+            "talla": "mediano",
+            "adoptada": false,
+            "detalles": "En busca de un hogar responsable que le brinde todo el amor que merece."
+        },
+        {
+            "id": 4,
+            "nombre": "Coco",
+            "foto": "https://www.adoptanocompres.org/wp-content/uploads/2022/07/Coco-4-600x800.jpeg",
+            "edad": "1 año y medio",
+            "talla": "grande",
+            "adoptada": true,
+            "detalles": "En busca de una familia que le de mucho cariño."
+        },
+        {
+            "id": 5,
+            "nombre": "Jade",
+            "foto": "https://www.adoptanocompres.org/wp-content/uploads/2022/06/Jade-14-600x979.jpeg",
+            "edad": "5 meses",
+            "talla": "mediano",
+            "adoptada": false,
+            "detalles": "Jade es un pequeñin muy activo, amoroso y sociable con otras personas y animales y esta listo para encontrar una familia amorosa y responsable por el resto de su vida que sepan lo que implica cuidar un perrito desde una etapa temprana donde demandan mucho tiempo, paciencia y amor."
+        },
+        {
+            "id": 6,
+            "nombre": "Gray",
+            "foto": "https://www.adoptanocompres.org/wp-content/uploads/2022/05/Gray-Fundacion-Adopta-No-Compres-600x800.jpg",
+            "edad": "2 años",
+            "talla": "grande",
+            "adoptada": false,
+            "detalles": "Tuvo 6 cachorros los cuales fueron trasladados a Bogotá para iniciar su proceso de recuperación de salud y rehabilitación."
+        },
+        {
+            "id": 7,
+            "nombre": "Alaska",
+            "foto": "https://www.adoptanocompres.org/wp-content/uploads/2022/05/Alaska-Fundacion-Adopta-No-Compres-600x800.jpg",
+            "edad": "1 año y medio",
+            "talla": "mediano",
+            "adoptada": false,
+            "detalles": "Alaska busca conectarse con el amor de una familia responsable por el resto de su vida."
+        },
+        {
+            "id": 8,
+            "nombre": "Luis Alfonso",
+            "foto": "https://www.adoptanocompres.org/wp-content/uploads/2022/05/Luis-Alfonso-Fundacion-Adopta-No-Compres-600x400.jpg",
+            "edad": "2 años",
+            "talla": "mediano",
+            "adoptada": false,
+            "detalles": "Busca un hogar responsable que le pueda dar mucha actividad, amor y cuidado por le resto de su vida."
+        },
+        {
+            "id": 9,
+            "nombre": "Selina",
+            "foto": "https://www.adoptanocompres.org/wp-content/uploads/2020/05/Selina_nuevafoto.jpg",
+            "edad": "2 años",
+            "talla": "pequeña",
+            "adoptada": true,
+            "detalles": "Tamaño pequeña, activa, sociable con otros gatos, aun tiene desconfianza con las personas debido a maltrato"
+        }
+    ]
+}
